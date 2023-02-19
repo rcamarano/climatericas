@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dra. Giovana Faria - Personal Fisio</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/x-icon" href="/images/FAVICO.png">
+</head>
+
+<body>
+  <header>
+    <a href="#">
+      <img src="images/Climaterica-Logo.png" style="mix-blend-mode: multiply;" alt="Climatéricas">
+    </a>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="index.html">Sobre</a>
+      <!-- <a href="#store">Meus serviços</a> -->
+      <a href="index.html">Cursos e consultorias</a>
+      <a href="index.html">Contatos</a>
+    </nav>
+  </header>
+
+  <section class="newsletter" id="planner-gratuito">
+    <h3>Receba o Planner gratuitamente no seu email</h3>
+    <p>Envie um email pra mim com seus dados de cadastro e receba seu Planner gratuito!
+      <br>
+      Aqui vai um primeiro passo para seu auto-conhecimento em busca de disposição e longevidade.
+    </p>
+    <div class="flex-container">
+      <img class="flex-item" src="images/climatericas-planner-gratuito.jpeg">
+
+      <form id="myForm" action="mailto:contato@climatericas.com" method="post" enctype="text/plain">
+        <label>Nome:</label>
+        <input type="text" name="name" required>
+        <br>
+        <label>Email:</label>
+        <input type="email" name="email" required>
+        <br>
+        <label>Telefone:</label>
+        <input type="tel" name="phone" required>
+        <br>
+        <input type="submit" value="Solicitar Planner" class="inputBtn">
+        <!-- <button type="submit" value="Solicitar Planner" class="inputBtn" id="download" disabled>Solicitar Planner</button> -->
+      </form>
+    </div>
+  </section>
+
+  <footer id="contatos">
+    <h3>Aproveite pra seguir minhas redes:</h3>
+    <p>Caso prefira, envie uma mensagem pra mim pelo Whatsapp ou me siga no Instagram
+      <br>
+      para tirar suas dúvidas. Te vejo por lá!
+    </p>
+    <ul>
+      <li>
+        <a href="https://wa.me/5511999557550" target="_blank">
+          <i class="bi bi-whatsapp"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/gipersonalfisio/" target="_blank">
+          <i class="bi bi-instagram"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.facebook.com/gipersonalfisio/" target="_blank">
+          <i class="bi bi-facebook"></i>
+        </a>
+      </li>
+    </ul>
+    <p>Todos os direitos reservados - camarano.net 2023</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+
+</html>
