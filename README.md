@@ -6,6 +6,6 @@ Especialista em saúde e boa forma.
 
 🤸🏼‍♂️𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙏𝙧𝙖𝙞𝙣𝙚𝙧 👩🏻‍🎓Fisioterapeuta e Professora de Educação Física. 
 
-Acesse www.climatericas.com e veja o resultado final. 
+Acesse www.camarano.net/climatericas e veja o resultado final. 
 
 Aproveite para fazer o download do planner de trinamento gratuito disponibilizado pela Dra. Giovana Faria.
